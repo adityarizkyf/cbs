@@ -2,4 +2,7 @@ Nama	: Aditya Rizky Fadillah
 NPM	: 140810160042
 TTL	: Bandung, 18 Desember 1997
 JK	: Laki-laki
-Hobby	: Ngoding 
+
+Nama	: Teguh Riandi Pratama
+NPM	: 140810160025
+
